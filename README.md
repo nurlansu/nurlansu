@@ -13,9 +13,9 @@
 
 ##### GET IN TOUCH
 
-- StackOverflow: [stackoverflow.com/nurlansu]
-- GitHub: [github.com/nurlansu]
-- LinkedIn: [linkedin.com/in/nurlansu]
+- StackOverflow: [stackoverflow.com/suyundukov]
+- GitHub: [github.com/suyundukov]
+- LinkedIn: [linkedin.com/in/suyundukov]
 - Site: [nurlan.co]
 - E-mail: hi@nurlan.co
 
@@ -23,7 +23,7 @@
 
 [GetTransfer]: https://gettransfer.com/ "GetTransfer.com"
 [Twitter]: https://www.twitter.com/nurlansu "Twitter"
-[github.com/nurlansu]: https://github.com/nurlansu/ "GitHub"
-[linkedin.com/in/nurlansu]: https://linkedin.com/in/nurlansu "LinkedIn"
-[stackoverflow.com/nurlansu]: https://stackoverflow.com/users/8266641/ "StackOverflow"
+[github.com/suyundukov]: https://github.com/suyundukov/ "GitHub"
+[linkedin.com/in/suyundukov]: https://linkedin.com/in/suyundukov "LinkedIn"
+[stackoverflow.com/suyundukov]: https://stackoverflow.com/users/8266641/ "StackOverflow"
 [nurlan.co]: https://nurlan.co/ "Personal Site"
