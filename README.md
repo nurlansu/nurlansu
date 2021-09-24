@@ -22,7 +22,7 @@
 
 
 [GetTransfer]: https://gettransfer.com/ "GetTransfer.com"
-[Twitter]: https://www.twitter.com/nurlansu "Twitter"
+[Twitter]: https://twitter.com/suyundukoff "Twitter"
 [github.com/suyundukov]: https://github.com/suyundukov/ "GitHub"
 [linkedin.com/in/suyundukov]: https://linkedin.com/in/suyundukov "LinkedIn"
 [stackoverflow.com/suyundukov]: https://stackoverflow.com/users/8266641/ "StackOverflow"
