@@ -1,6 +1,6 @@
 ### Bonjour! 👋
 
-#### I'm a Full-Stack Developer living in Moscow, Russia.
+#### I'm a Full-Stack Developer living in Limassol, Cyprus.
 
 ##### BIO
 
