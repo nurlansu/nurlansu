@@ -16,8 +16,8 @@
 - StackOverflow: [stackoverflow.com/suyundukov]
 - GitHub: [github.com/suyundukov]
 - LinkedIn: [linkedin.com/in/suyundukov]
-- Site: [nurlan.co]
-- E-mail: hi@nurlan.co
+- Site: [suyundukov.com]
+- E-mail: hey@suyundukov.com
 
 
 
@@ -26,4 +26,4 @@
 [github.com/suyundukov]: https://github.com/suyundukov/ "GitHub"
 [linkedin.com/in/suyundukov]: https://linkedin.com/in/suyundukov "LinkedIn"
 [stackoverflow.com/suyundukov]: https://stackoverflow.com/users/8266641/ "StackOverflow"
-[nurlan.co]: https://nurlan.co/ "Personal Site"
+[suyundukov.com]: https://suyundukov.com/ "Personal Site"
