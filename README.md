@@ -8,7 +8,6 @@
 - :gear: &nbsp;I use daily: `.go`, `.py`, `.js`, `.ts`, `.html`, `.scss`,
 - :seedling: &nbsp;I’m currently learning **Docker** and **Kubernetes**
 - :dancers: &nbsp;I’m looking to collaborate on **Open Source** projects
-- :speech_balloon: &nbsp;Ask me anything about **Web Development**
 - :mailbox: &nbsp;Connect with me on **[Twitter]**
 
 ##### GET IN TOUCH
@@ -17,7 +16,6 @@
 - GitHub: [github.com/suyundukov]
 - LinkedIn: [linkedin.com/in/suyundukov]
 - Site: [suyundukov.com]
-- E-mail: hey@suyundukov.com
 
 
 
